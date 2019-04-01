@@ -47,7 +47,7 @@ local.properties
 /android/
 
 # Node
-node_modules/
+node_modules
 *.log
 .nvm
 /bots/node_modules/
@@ -72,4 +72,4 @@ RNTester/build
 
 # CocoaPods
 /template/ios/Pods/
-/template/ios/Podfile.lock
+/template/ios/Podfile.locknode_modules/
