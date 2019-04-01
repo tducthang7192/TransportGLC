@@ -1,9 +1,9 @@
 {
-  "devToolsPort": 19002,
+  "devToolsPort": 19003,
   "expoServerPort": 19000,
-  "packagerPort": 19001,
-  "packagerPid": 11764,
-  "expoServerNgrokUrl": "https://u9-6x4.anonymous.untitled-folder.exp.direct",
-  "packagerNgrokUrl": "https://packager.u9-6x4.anonymous.untitled-folder.exp.direct",
-  "ngrokPid": 11800
+  "packagerPort": 19004,
+  "packagerPid": 15339,
+  "expoServerNgrokUrl": "https://ck-i2m.anonymous.untitled-folder.exp.direct",
+  "packagerNgrokUrl": "https://packager.ck-i2m.anonymous.untitled-folder.exp.direct",
+  "ngrokPid": 15351
 }
