@@ -72,4 +72,4 @@ RNTester/build
 
 # CocoaPods
 /template/ios/Pods/
-/template/ios/Podfile.locknode_modules/
+/template/ios/Podfile.lock
